@@ -5,10 +5,10 @@ import image2 from "../assest/fun3.jpeg";
 import image3 from "../assest/fun4.jpeg";
 import image4 from "../assest/fun5.jpeg";
 
-import image1Mobile from "../assest/banner/img1_mobile.jpg";
-import image2Mobile from "../assest/banner/img2_mobile.webp";
-import image3Mobile from "../assest/banner/img3_mobile.jpg";
-import image4Mobile from "../assest/banner/img4_mobile.jpg";
+// import image1Mobile from "../assest/banner/img1_mobile.jpg";
+// import image2Mobile from "../assest/banner/img2_mobile.webp";
+// import image3Mobile from "../assest/banner/img3_mobile.jpg";
+// import image4Mobile from "../assest/banner/img4_mobile.jpg";
 
 import { useEffect, useState } from "react";
 
